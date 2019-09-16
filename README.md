@@ -1,2 +1,10 @@
 # lab-00
-deployment practice 
+
+## Proof of Life Server
+
+# Author: Maeve Griffin
+
+# Links and Resources
+* PR
+* Travis
+*  Herokurun 

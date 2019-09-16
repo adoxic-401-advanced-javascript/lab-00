@@ -22,13 +22,13 @@ app.use('/docs', express.static('./docs'));
 
 app.get('/', requestHandler);
 
-function requestHandler(req,res) {
+function requestHandler(req, res) {
   res.setHeader('Content-Type', 'text/html');
   res.statusCode = 200;
   let isItAlive = pol.isAlive(req.query.dead).toString();
   res.write( isItAlive );
   res.end();
 }
-
-app.listen(process.env.PORT, () => console.log('server up') );
+console.log(process.env.PORT);
+app.listen(process.env.PORT, () => console.log(`server up ${process.env.PORT}`) );
 
