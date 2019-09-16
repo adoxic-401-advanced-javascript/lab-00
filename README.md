@@ -5,15 +5,12 @@
 ### Author: Maeve Griffin
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/adoxic-401-advanced-javascript/lab-00/pull/1)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [front-end](https://fast-mountain-53129.herokuapp.com/)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
 * [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
 
 ### Setup
 #### `.env` requirements
