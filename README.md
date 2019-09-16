@@ -6,27 +6,29 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/adoxic-401-advanced-javascript/lab-00/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com)
 * [front-end](https://fast-mountain-53129.herokuapp.com/)
 
 #### Documentation
-* [jsdoc](http://xyz.com) (Server assignments)
+* [jsdoc](https://devdocs.io/jsdoc/)
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3000
 
-**or, include an `.env.example`**
 
 #### Running the app
+npm run start: Starts the server
+npm run lint: Runs the linter
+npm run test: Checks jest tests
+npm run test-watch: Checks tests as you edit code
+npm run jsdoc: sets up js doc
 
-**Describe what npm scripts do**
-(hint: `> npm run` from command line will give you list, paste here and change
-command to description)
+npm i: installs dependencies
+
+npm i -D: installs dev dependencies
   
 #### Tests
-Any additional testing information
+test proof of life true by default 
 
-#### UML
-Link to an image of the UML for your application and response to events
+
