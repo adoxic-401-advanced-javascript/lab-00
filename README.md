@@ -10,7 +10,7 @@
 * [front-end](https://fast-mountain-53129.herokuapp.com/)
 
 #### Documentation
-* [jsdoc](https://devdocs.io/jsdoc/)
+* [jsdoc](https://fast-mountain-53129.herokuapp.com/docs/)
 
 ### Setup
 #### `.env` requirements
